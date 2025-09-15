@@ -25,7 +25,7 @@ Usage
 Clone the repository
 
 git clone https://github.com/jacobins3/object_detection_model.git
-cd settlement-farmland-models
+cd settlement-farmland-models-BMNP
 
 
 Load the trained model weights into your preferred deep learning framework (e.g., PyTorch).
