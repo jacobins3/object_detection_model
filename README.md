@@ -24,7 +24,7 @@ Usage
 
 Clone the repository
 
-git clone https://github.com/yourusername/settlement-farmland-models.git
+git clone https://github.com/jacobins3/object_detection_model.git
 cd settlement-farmland-models
 
 
